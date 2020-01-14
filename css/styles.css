@@ -14,3 +14,7 @@
   margin-right: auto;
   display: block;
 }
+
+.border {
+  border: 2px solid green;
+}
